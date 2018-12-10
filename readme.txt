@@ -6,3 +6,4 @@ push Remote
 this is a working
 this is a merge
 Creating a new branch is quick and simple.
+add merge
