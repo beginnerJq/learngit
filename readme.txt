@@ -5,4 +5,4 @@ Git tracks changes.
 push Remote
 this is a working
 this is a merge
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
